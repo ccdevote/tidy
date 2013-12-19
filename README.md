@@ -1,1 +1,1 @@
-* dymantic
+* dymantic link
