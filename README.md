@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 * dymantic link
 =======
 tidy
 ====
-
 tidy is a sample c project for my learning
->>>>>>> master
